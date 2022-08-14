@@ -1,0 +1,49 @@
+.flex-between{
+    display:flex;
+    justify-content: space-between;
+}
+
+.header h2{
+    padding: 1%;
+}
+
+.nested-flex-properties{
+    column-gap: 20px;
+}
+
+/*Author and icons*/
+
+.fa {
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: auto;
+  }
+
+
+/* Navbar CSS */
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Helper CSS */
+.page{
+    text-align: center;
+    margin: 5% 25%;
+}
+
+.border{
+    border: 2px solid black;
+}
+
+
+/* Tags css */
+h1, h2{
+    text-align: left;
+}
+
+h2{
+    font-weight: lighter;
+}
